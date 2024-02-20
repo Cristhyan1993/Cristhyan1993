@@ -1,4 +1,3 @@
-![MasterHead](https://semidotinfotech.com/web/images/Customer-Software-Banner.jpg)
 <h1 align="center">Hi 👋, I'm Cristhyan Calderon</h1>
 <h3 align="center">Web Developer based in London</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif"/>
